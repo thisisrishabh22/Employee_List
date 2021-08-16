@@ -46,3 +46,8 @@ footer {
   color: #4979ff;
   text-decoration: underline;
 }
+@media (max-width:500px) {
+  nav a{
+    margin: auto 8px;
+  }
+}

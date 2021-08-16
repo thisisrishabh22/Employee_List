@@ -2,7 +2,7 @@ const Footer = () => {
     return (
         <footer>
             <div>
-                Copyright 2021 Ninja List
+                Copyright 2021 Employee List
         </div>
         </footer>
     );
